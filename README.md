@@ -16,8 +16,9 @@
    - [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) (Google Colab Notebook)
       - PySpark 
    - [Amazon Web Services (AWS)](https://aws.amazon.com/)
+   - PostgreSQL 12
    - pgAdmin 4 
-   - PostgreSQL
+
    
 - Data source: 
    - Amazon Review datasets 
