@@ -42,8 +42,8 @@
 - The number of **5-star reviews** for all **Vine** and **non-Vine** reviews 
    > ![number_5star_reviews](https://user-images.githubusercontent.com/89308251/145699885-1150b533-a326-4ed0-8d94-2af75bb93ea8.png)
 
-   - There **74** out of 136 **Vine** members gave 5-star reviews.
-   - There **8,482** out of 18,019 **non-Vine** members gave 5-star reviews.
+   - There are **74** out of 136 **Vine** members gave 5-star reviews.
+   - There are **8,482** out of 18,019 **non-Vine** members gave 5-star reviews.
 
 
 - The **percentage 5-star reviews** for all **Vine** and **non-Vine** reviews 
