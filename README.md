@@ -34,27 +34,27 @@
    > ![total_number_reviews](https://user-images.githubusercontent.com/89308251/145699865-ddead52d-3db2-4daf-bf20-c3486f607e8a.png)
 
    - The total number of reviews for all Vine and non-Vine reviews is 18,155 people.
-      - Appoximately 1% are Vine members. (136 people)
-      - Appoximately 99% are non-Vine members. (18,019 people)
+      - Appoximately **1%** are **Vine** members. (136 people)
+      - Appoximately **99%** are **non-Vine** members. (18,019 people)
 
 
 - The number of **5-star reviews** for all **Vine** and **non-Vine** reviews 
    > ![number_5star_reviews](https://user-images.githubusercontent.com/89308251/145699885-1150b533-a326-4ed0-8d94-2af75bb93ea8.png)
 
-   - There 74 out of 136 Vine members gave 5-star reviews.
-   - There 8,482 out of 18,019 non-Vine members gave 5-star reviews.
+   - There **74** out of 136 **Vine** members gave 5-star reviews.
+   - There **8,482** out of 18,019 **non-Vine** members gave 5-star reviews.
 
 
 - The **percentage 5-star reviews** for all **Vine** and **non-Vine** reviews 
    > ![percent_5star_reviews](https://user-images.githubusercontent.com/89308251/145699886-11e293bf-bf25-4613-a1e3-756ebea9da25.png)
 
-   - Appoximately 54% of Vine members gave 5-star reviews.
-   - Appoximately 47% of non-Vine members gave 5-star reviews.
+   - Appoximately **54%** of **Vine** members gave 5-star reviews.
+   - Appoximately **47%** of **non-Vine** members gave 5-star reviews.
 
 
 ## Summary:   
 
-For the results, we could come to the conclusion that there is a **positivity bias** for reviews in the Vine program on the **furniture** category. 
+For the results, we could come to the conclusion that there is a **positivity bias** for reviews in the Vine program on the **furniture category**. 
 However, there are more than 50 datasets and difference categories that we could use to prove even further if there is any bias towards favorable reviews from Vine members.
 
 - The additional analyses that we could do with this dataset to support our statement are 
